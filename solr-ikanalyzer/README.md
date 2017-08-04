@@ -1,0 +1,6 @@
+这是一个solr和IK分词器的集成，用于单机版的solr测试
+ 
+需要将soft下修改之后的schema.xml拷贝到solr-home的collection的conf目录下  
+配置相应的分词字段才能实现最终的分词
+
+本版本使用了一个collection
